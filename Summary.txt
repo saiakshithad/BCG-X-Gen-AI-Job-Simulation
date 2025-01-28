@@ -1,0 +1,2 @@
+Summary
+The AI-powered chatbot provides a financial analysis of Microsoft, Tesla, and Apple for fiscal years 2021-2023. Using rule-based logic, it answers queries regarding key financial metrics such as total revenue, net income, total assets, total liabilities,etc. The system delivers consistent and structured insights based on predetermined data, it does not adapt to new information or learning beyond the set rules.
